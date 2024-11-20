@@ -1,0 +1,5 @@
+Ho creato un semplice programmino, tramite ricerche sul web, per riuscire a decifrare un codice crittografato tramite un cifrario di Cesare senza conoscere la chiave.
+Il codice é relativamente semplice, dopo aver controllato se sono lettere e se sono maiuscole, il codice sposta le lettere per tutte le 20 possibili combinazioni di "spostamento", stampando una lista 
+di tutte le possibili soluzioni utilizzando l'alfabeto italiano da 21 caratteri.
+
+in questo caso, la soluzione era "EPICODE", spostando le lettere di 3 posti.
